@@ -1,3 +1,4 @@
+
 // Package toolsnaps provides test utilities for ensuring json schemas for tools
 // have not changed unexpectedly.
 package toolsnaps
