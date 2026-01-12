@@ -1,3 +1,4 @@
+
 module github.com/github/github-mcp-server
 
 go 1.24.0
